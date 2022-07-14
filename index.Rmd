@@ -1,0 +1,77 @@
+Show in New Window
+Rows: 3378 Columns: 3
+── Column specification ──────────────────────────────────────────────────
+Delimiter: ","
+dbl  (1): stream_height_ft
+dttm (1): datetime
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 2226 Columns: 3
+── Column specification ──────────────────────────────────────────────────
+Delimiter: ","
+dbl  (1): stream_height_ft
+dttm (1): datetime
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 2327 Columns: 3
+── Column specification ──────────────────────────────────────────────────
+Delimiter: ","
+dbl  (1): stream_height_ft
+dttm (1): datetime
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Rows: 12545 Columns: 3
+── Column specification ──────────────────────────────────────────────────
+Delimiter: ","
+dbl  (1): stream_height_ft
+dttm (1): datetime
+date (1): date
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+Show in New Window
+Rows: 237 Columns: 7
+── Column specification ──────────────────────────────────────────────────
+Delimiter: ","
+chr (3): Site, Name, Collected
+dbl (4): Lab_ID, PointGage, StripchartStage, LoggerStage
+
+ℹ Use `spec()` to retrieve the full column specification for this data.
+ℹ Specify the column types or set `show_col_types = FALSE` to quiet this message.
+R Console
+
+
+Show in New Window
+
+Show in New Window
+
+HTML Widget
+plotly
+htmlwidget
+
+
+R version 4.1.0 (2021-05-18) -- "Camp Pontanezen"
+Copyright (C) 2021 The R Foundation for Statistical Computing
+Platform: aarch64-apple-darwin20 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> 
